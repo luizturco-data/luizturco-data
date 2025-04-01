@@ -6,7 +6,7 @@
 
 <p>
 	Sou matemático formado pela Universidade Federal de Santa Catarina <br>
-	Aspirante a Cientista de Dados 🎲 <br> 
+	Aspirante a Analista de Dados 🎲 <br> 
 	<strong>Faminto por conhecimento 📚 </strong> <br>
 
 </p>
